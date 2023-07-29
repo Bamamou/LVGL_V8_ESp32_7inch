@@ -1,4 +1,4 @@
-# Install script for directory: E:/Git/ZX4D30NE01S/components/lvgl
+# Install script for directory: E:/Git/LVGL_V8_ESp32_7inch/components/lvgl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

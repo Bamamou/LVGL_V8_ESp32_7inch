@@ -1,4 +1,4 @@
-# Install script for directory: E:/Git/ZX4D30NE01S/components/bus
+# Install script for directory: E:/Git/LVGL_V8_ESp32_7inch/components/bus
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

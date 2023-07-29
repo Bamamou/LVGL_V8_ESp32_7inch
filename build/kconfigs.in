@@ -48,5 +48,5 @@ source "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/vfs/Kcon
 source "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/wear_levelling/Kconfig"
 source "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/wifi_provisioning/Kconfig"
 source "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/wpa_supplicant/Kconfig"
-source "E:/Git/ZX4D30NE01S/components/bus/Kconfig"
-source "E:/Git/ZX4D30NE01S/components/lvgl/Kconfig"
+source "E:/Git/LVGL_V8_ESp32_7inch/components/bus/Kconfig"
+source "E:/Git/LVGL_V8_ESp32_7inch/components/lvgl/Kconfig"

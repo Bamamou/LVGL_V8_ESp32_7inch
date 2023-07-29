@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/Git/ZX4D30NE01S/build/esp-idf/newlib/port/cmake_install.cmake")
+  include("E:/Git/LVGL_V8_ESp32_7inch/build/esp-idf/newlib/port/cmake_install.cmake")
 endif()
 

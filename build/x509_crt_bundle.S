@@ -1,4 +1,4 @@
-/* * Data converted from E:/Git/ZX4D30NE01S/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from E:/Git/LVGL_V8_ESp32_7inch/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

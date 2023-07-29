@@ -1,4 +1,4 @@
-# Install script for directory: E:/Git/ZX4D30NE01S
+# Install script for directory: E:/Git/LVGL_V8_ESp32_7inch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/Git/ZX4D30NE01S/build/esp-idf/cmake_install.cmake")
+  include("E:/Git/LVGL_V8_ESp32_7inch/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Git/ZX4D30NE01S/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Git/LVGL_V8_ESp32_7inch/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

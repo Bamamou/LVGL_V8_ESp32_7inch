@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "E:/ESP/ToolChain/Espressif/frameworks/esp-idf-v5.0.2/components/bootloader/subproject",
-    "build_dir":          "E:/Git/ZX4D30NE01S/build/bootloader",
-    "config_file":        "E:/Git/ZX4D30NE01S/sdkconfig",
+    "build_dir":          "E:/Git/LVGL_V8_ESp32_7inch/build/bootloader",
+    "config_file":        "E:/Git/LVGL_V8_ESp32_7inch/sdkconfig",
     "config_defaults":    "",
     "bootloader_elf":     "",
     "app_elf":            "bootloader.elf",

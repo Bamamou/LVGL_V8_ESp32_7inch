@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("E:/Git/ZX4D30NE01S/build/bootloader/esp-idf/cmake_install.cmake")
+  include("E:/Git/LVGL_V8_ESp32_7inch/build/bootloader/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Git/ZX4D30NE01S/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Git/LVGL_V8_ESp32_7inch/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
